@@ -501,10 +501,6 @@ http://news.now.com/home/life/player?newsId=174312
 
 ___
 
-<p>十年得獎，引起不少討論。</p>
-<p>本版旨在嘗試把不同意見放在一起</p>
-<p>讓讀者有個大圖象</p>
-
 // meta (optional)
 
 - 電影工作者
